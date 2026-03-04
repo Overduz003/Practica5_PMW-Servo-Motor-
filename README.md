@@ -29,7 +29,7 @@ IMAGENES
 ![WhatsApp Image 2026-03-04 at 9 47 51 AM](https://github.com/user-attachments/assets/32dd85c7-e90c-4a54-8847-1e83bcd63ee2)
 
 
-200 --> 
+200 --> tiene el un bloqueo de 180 como parametro maximo 
 ![WhatsApp Image 2026-03-04 at 9 47 53 AM (1)](https://github.com/user-attachments/assets/b61f03b3-ca32-49de-ab07-1ef5a6f180e3)
 ![WhatsApp Image 2026-03-04 at 9 47 53 AM](https://github.com/user-attachments/assets/1f893767-b5fd-4263-b13b-2ff81590aadf)
 
