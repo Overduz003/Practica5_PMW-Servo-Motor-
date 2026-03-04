@@ -1,5 +1,5 @@
 # Practica5_PMW-Servo-Motor-
-
+"Practica hecha en clase sobre la malipulacion de un servo-motor a travez de pulsos, buscamos obtener diferentes grados representados en el giro del servo-motor (180, 90, 0, etc....) teniendo un parametro MAX de 180
 
 
 Diagrama de ondas --> WAVES
